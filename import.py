@@ -1,4 +1,4 @@
-import random
+import random #usa impor para importar las clases o solo algunos metodos de esas clases con from
 
 def cargar():
     lista=[]

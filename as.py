@@ -1,4 +1,4 @@
-from math import sqrt as raiz, pow as exponente
+from math import sqrt as raiz, pow as exponente #se usa el as para darle como un apodo por decirlo asi a las funciones
 
 dato=int(input("Ingrese un valor entero:"))
 raizcuadrada=raiz(dato)

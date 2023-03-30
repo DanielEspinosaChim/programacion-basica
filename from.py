@@ -1,4 +1,4 @@
-from math import sqrt, pow
+from math import sqrt, pow #form es para importar solo alguas funcionalidades de math
 
 dato=int(input("Ingrese un valor entero:"))
 raiz=sqrt(dato)

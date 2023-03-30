@@ -1,6 +1,6 @@
 def meses_faltantes(numero):
     meses=('enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre')
-    return meses[numero:]
+    return meses[numero:]#los dos puntos indican todo lo que siga
 
 
 # bloque principal

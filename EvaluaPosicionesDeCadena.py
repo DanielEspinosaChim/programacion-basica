@@ -17,6 +17,6 @@ def proceso(cadena):
 #para aceder a último valor pondremos el indice -1, para el penúltimo el -2 así hasta el primero
 #lista =[1,2,3]  print(lista[-1]) accedemos a valor 3 print([-2]) accedemos al valor 2
 
-
+#te dice si se lee igual de derecha a izquierda o de izquierad a derecha
 proceso("1331")
 proceso("3851")
